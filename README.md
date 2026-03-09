@@ -1,10 +1,10 @@
-Java Servlet User Authentication System
+#Java Servlet User Authentication System
 
 This project implements a secure and reliable authentication system for web applications using Java Servlets and JSP. It provides user registration, login, logout, and session management functionalities, ensuring that only authorized users can access protected pages.
 
 The system follows the MVC architecture and demonstrates how session-based authentication works in a Java web application.
 
-Features
+#Features
 
 User Registration – Allows new users to create accounts with unique credentials.
 
@@ -18,7 +18,7 @@ Route Protection – Prevents users from directly accessing protected pages with
 
 Secure Redirection – Uses proper forwarding and redirection techniques after login and logout.
 
-Technologies Used
+#Technologies Used
 
 Backend: Java Servlets
 Frontend: JSP, HTML, CSS
@@ -27,7 +27,7 @@ Database Access: JDBC
 Session Handling: HTTP Sessions
 Server: Apache Tomcat
 
-How It Works
+#How It Works
 
 User Registration
 A new user signs up with name, email, and password. The credentials are stored in the database.
